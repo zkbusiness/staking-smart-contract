@@ -17,7 +17,7 @@ Your contributions are always welcome! Whether it's submitting PRs, suggesting i
 - [Website](https://zkbusiness.org/)
 - [GitHub](https://github.com/zkbusiness)
 - [Twitter](https://twitter.com/zkbusinessland)
-- [Discord](https://discord.com/invite/sHH4RZes)
+- [Discord](https://discord.gg/CVFsSXRqZ6)
 - [Telegram](https://t.me/zkBusinessOffcial)
 
 ## 📜 License
